@@ -1,0 +1,17 @@
+Below is some of the output (most noteable packages) when "conda list" is run:
+cudatoolkit==9.2
+cudnn==7.6.5
+feather-format==0.4.1
+ffmpeg==3.4
+imageio==2.9.0
+keras==2.1.5
+moviepy==1.0.1
+numpy==1.15.2
+opencv-python==3.2.0.8
+pandas==0.22.0
+pillow==5.2.0
+python==3.5.6
+requests==2.13.0
+scipy==1.1.0
+tensorflow==1.10.0
+tdqdm==4.63.0
