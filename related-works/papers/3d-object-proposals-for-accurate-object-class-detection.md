@@ -6,13 +6,13 @@ Paper: [3D Object Proposals for Accurate Object Class Detection](https://proceed
 * Current approaches do not work well in auto. driving applications
 * This paper's approach reasons in 3D and utilizes various features to improve current detection models
  
-#Related Works
-* RGB:
-    * Combine super pixels into larger regions based on colour, texture, etc.
-    * These regions can then be scored based on various features
-* RGB-D:
-    * Like RGB but includes depth data
-    * Current models have been trained on CAD models
+# Related Works
+## RGB
+* Combine super pixels into larger regions based on colour, texture, etc.
+* These regions can then be scored based on various features
+## RGB-D
+* Like RGB but includes depth data
+* Current models have been trained on CAD models
  
 # Methodology
 1. Depth computed via sota approach
