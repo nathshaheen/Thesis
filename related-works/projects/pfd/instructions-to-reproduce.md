@@ -88,3 +88,7 @@ Please follow the steps detailed on: [Periphery Fovea Driving](https://github.co
 NOTE: I encoutered and error when running the code and had to add allow_pickle=True to the function call parameters on line 7 in my_alexnet.py
 
 NOTE: When running this on 100 test, train and validation videos each it took my PC 6 hrs)
+
+## Viewing the Results
+
+I have provided two files, `output_results.py` and `output_videos.py` that can be placed in `./logs/[experiment name]/prediction_iter_##/` and run to print out the results.
