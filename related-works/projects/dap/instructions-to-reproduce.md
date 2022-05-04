@@ -41,7 +41,8 @@ NOTE: I was having issues with scipy and had to uninstall and reinstall scipy 1.
 #### Running the code
 Please follow the steps detailed on: [Driver Attention Prediction](https://github.com/pascalxia/driver_attention_prediction)
 
-NOTE: I encoutered and error when running the code and had to add `allow_pickle=True` to the function call parameters on line 7 in my_alexnet.py
+NOTE: I encoutered an error when running the code and had to add `allow_pickle=True` to the function call parameters on line 7 in my_alexnet.py
+
 NOTE: Total runtime for me was ~10 mins
 
 ## Python venvs Method
@@ -84,4 +85,5 @@ NOTE: I was having issues with scipy and had to uninstall and reinstall scipy 1.
 Please follow the steps detailed on: [Driver Attention Prediction](https://github.com/pascalxia/driver_attention_prediction)
 
 NOTE: I encoutered and error when running the code and had to add `allow_pickle=True` to the function call parameters on line 7 in my_alexnet.py
+
 NOTE: Total runtime for me was ~30 mins
