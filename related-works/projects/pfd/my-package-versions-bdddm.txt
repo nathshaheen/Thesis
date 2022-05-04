@@ -1,0 +1,19 @@
+This file details the packages I have installed when running https://github.com/pascalxia/BDD_Driving_Model-1
+
+Below is some of the output (most noteable packages) when "conda list" is run:
+cudatoolkit==9.2
+cudnn==7.6.5
+feather-format==0.4.1
+ffmpeg==4.2.2
+ffprobe==0.5
+imageio==2.9.0
+numpy==1.14.2
+opencv-python==4.4.0.42
+pandas==0.22.0
+pillow==5.3.0
+python==3.5.6
+scikit-image==0.15.0
+scipy==1.1.0
+tensorflow==1.10.0
+tensorflow-gpu==1.10.0
+tqdm==4.64.0
