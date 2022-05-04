@@ -1,0 +1,19 @@
+
+This file details the packages I have installed when running https://github.com/pascalxia/periphery_fovea_driving
+
+Below is some of the output (most noteable packages) when "conda list" is run:
+feather-format==0.4.1
+ffprobe==0.5
+imageio==2.4.1
+moviepy==1.0.3
+numpy==1.18.5
+opencv-python==3.2.0.8
+pandas==0.25.3
+pillow==7.2.0
+python==3.5.6
+requests==2.25.1
+scikit-image==0.15.0
+scipy==1.2.0
+tensorflow==1.5.0
+tensorflow-gpu==1.5.0
+tqdm==4.64.0
